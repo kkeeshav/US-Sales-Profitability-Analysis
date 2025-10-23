@@ -1,4 +1,4 @@
-# US Sales & Profitability Analysis (Jupyter Project)
+# US Sales & Profitability Analysis 
 
 This is a complete data analysis project performed in a Python Jupyter Notebook. The project involves cleaning, transforming, and analyzing a raw sales CSV file to uncover key insights into sales performance, profitability, and logistics.
 
